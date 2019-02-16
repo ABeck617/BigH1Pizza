@@ -1,0 +1,12 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.orange {
+    border: 5px solid orange;
+}
+
+.container {
+    display: flex;
+}
